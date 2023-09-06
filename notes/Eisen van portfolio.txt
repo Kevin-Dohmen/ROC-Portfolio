@@ -1,0 +1,9 @@
+Welkomspagina:
+    Volledige naam
+    Studentnummer
+    Profielfoto
+    Naam opleiding en cohort jaar (2023)
+Link naar profiel pagina
+profiel pagina
+projectenpagina
+pagina naar CV

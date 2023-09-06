@@ -1,0 +1,9 @@
+https://github.com/
+- Menu knop
+- side bar
+
+https://www.tradingview.com/
+- startscherm titel
+    - beetje links bold letters
+- color sceme (dark mode)
+
