@@ -1,5 +1,5 @@
 body {
-  background-color: #345;
+  background: linear-gradient(169deg, rgba(2,0,36,1) 0%, rgba(43,0,94,1) 47%, rgba(113,0,148,1) 100%);
   font-family: sans-serif;
   color: #FFFFFF;
 }
@@ -10,18 +10,14 @@ body {
   font-weight: bold;
 }
 
-#sideBar {
+#topBar {
   height: auto;
-  width: auto;
-  background-color: #456d;
-  border: 5px solid #234d;
-  border-radius: 32px;
-  padding: 5px;
+  width: 100%;
+  background-color: #FFFFFF00;
   position:fixed;
-  top:5px;
-  left:5px;
+  top:0px;
+  left:0px;
   z-index:1000;
-  display: none;
 }
 
 #menuOpen {
@@ -36,15 +32,9 @@ body {
 }
 
 .menuButton {
-  width: 150px;
   height: auto;
-  background-color: #567;
-  margin: 5px;
-  text-align: center;
-  border-radius: 10px;
-  font-size: 16px;
-  position: relative;
-  z-index:100;
+  width: auto;
+  padding: 5px 10px 10px 5px;
 }
 
 .debug-box {
