@@ -32,9 +32,17 @@ body {
 }
 
 .menuButton {
-  height: auto;
+  height: 32px;
   width: auto;
   padding: 5px 10px 10px 5px;
+  background-color: #88888800;
+}
+
+div.menuButton:hover {
+  height: 32px;
+  width: auto;
+  padding: 5px 10px 10px 5px;
+  background-color: #88888888;
 }
 
 .debug-box {
@@ -42,4 +50,11 @@ body {
   height: auto;
   border: 5px solid #FF0000;
   border-radius: 10px;
+}
+
+.menuText {
+  font-size: 20px;
+  float: right;
+  margin-left: 10px;
+  margin-top: 8px;
 }
