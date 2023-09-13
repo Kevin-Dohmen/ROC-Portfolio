@@ -4,6 +4,10 @@ body {
   color: #FFFFFF;
 }
 
+#wrapper {
+  min-height: 100vh;
+}
+
 #Header {
   margin-top: 64px;
   margin-bottom: 16px;
@@ -12,12 +16,13 @@ body {
 
 #content {
   font-size: 14px;
+  height: 100%;
 }
 
 #footer {
   margin: 20px -8px -8px -8px;
-  padding: 20px;
   height: auto;
+  padding: 20px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   background-color: #303030;
@@ -67,7 +72,7 @@ div.menuButton:hover {
 }
 
 .debug-box {
-  width: 100px;
+  width: 500px;
   height: auto;
   border: 5px solid #FF0000;
   border-radius: 10px;
