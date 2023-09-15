@@ -6,6 +6,7 @@ body {
 
 #wrapper {
   min-height: 100vh;
+  padding-bottom: 20px;
 }
 
 #Header {
@@ -16,11 +17,11 @@ body {
 
 #content {
   font-size: 14px;
-  height: 100%;
+  height: auto;
 }
 
 #footer {
-  margin: 20px -8px -8px -8px;
+  margin: 0px -8px -8px -8px;
   height: auto;
   padding: 20px;
   border-top-left-radius: 10px;
@@ -30,9 +31,13 @@ body {
 }
 
 .Title {
-  text-align: right;
   font-size: 40px;
   font-weight: bold;
+  text-align: center;
+}
+
+.Title.Portfolio {
+  text-align: right;
   display: inline-block;
 }
 
@@ -46,6 +51,14 @@ body {
   z-index:1000;
 }
 
+.menuButton {
+  height: 32px;
+  width: auto;
+  padding: 5px 10px 10px 5px;
+  background-color: #88888800;
+}
+
+/*
 #menuOpen {
   height: 10px;
   width: 10px;
@@ -56,13 +69,7 @@ body {
   z-index:1000;
   display: block;
 }
-
-.menuButton {
-  height: 32px;
-  width: auto;
-  padding: 5px 10px 10px 5px;
-  background-color: #88888800;
-}
+*/
 
 div.menuButton:hover {
   height: 32px;
