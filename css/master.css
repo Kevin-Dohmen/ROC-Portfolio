@@ -1,3 +1,5 @@
+/*-------------Website-wide Styles-------------*/
+
 body {
   background: linear-gradient(169deg, rgba(2,0,36,1) 0%, rgba(43,0,94,1) 47%, rgba(113,0,148,1) 100%);
   font-family: sans-serif;
@@ -34,6 +36,7 @@ body {
   font-size: 40px;
   font-weight: bold;
   text-align: center;
+  margin-top: 80px;
 }
 
 .Title.Portfolio {
@@ -54,27 +57,12 @@ body {
 .menuButton {
   height: 32px;
   width: auto;
-  padding: 5px 10px 10px 5px;
+  padding: 10px 10px 10px 10px;
   background-color: #88888800;
 }
 
-/*
-#menuOpen {
-  height: 10px;
-  width: 10px;
-  background-color: #FFFFFF;
-  position:fixed;
-  top:5px;
-  left:5px;
-  z-index:1000;
-  display: block;
-}
-*/
-
-div.menuButton:hover {
-  height: 32px;
-  width: auto;
-  padding: 5px 10px 10px 5px;
+.menuButton:hover {
+  padding: 5px 10px 15px 10px;
   background-color: #88888888;
 }
 
@@ -90,4 +78,26 @@ div.menuButton:hover {
   float: right;
   margin-left: 10px;
   margin-top: 8px;
+}
+
+/*-------------Pagina-specifieke Styles-------------*/
+/*Projecten*/
+#projectenwrapper {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #0003;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.projectbox {
+  background-color: #1c284d;
+  border-radius: 10px;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.projecttextbox {
+  color: #16d92a;
 }
