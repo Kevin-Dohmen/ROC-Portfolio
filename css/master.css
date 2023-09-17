@@ -36,12 +36,13 @@ body {
   font-size: 40px;
   font-weight: bold;
   text-align: center;
-  margin-top: 80px;
+  margin-top: 96px;
 }
 
 .Title.Portfolio {
   text-align: right;
   display: inline-block;
+  margin-top: 64px;
 }
 
 #topBar {
@@ -88,16 +89,31 @@ body {
   margin-right: 20px;
   background-color: #0003;
   border-radius: 20px;
-  padding: 10px;
+  padding: 10px
 }
 
 .projectbox {
   background-color: #1c284d;
   border-radius: 10px;
+  margin-bottom: 10px;
   padding: 10px;
   overflow: hidden;
 }
 
+.projectbox.end {
+  margin-bottom: 0px;
+}
+
 .projecttextbox {
   color: #16d92a;
+}
+
+.current-project {
+  float: right;
+  font-weight: 800;
+  font-size: 12px;
+  padding: 3px;
+  border-radius: 5px;
+  background-color: #dd0000;
+  color: #000000;
 }
