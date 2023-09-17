@@ -57,9 +57,11 @@ body {
 
 .menuButton {
   height: 32px;
+  float: left;
   width: auto;
   padding: 10px 10px 10px 10px;
   background-color: #88888800;
+  color: #FFFFFF;
 }
 
 .menuButton:hover {
