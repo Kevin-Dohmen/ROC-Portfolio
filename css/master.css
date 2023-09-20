@@ -40,7 +40,7 @@ body {
 }
 
 .Title.Portfolio {
-  text-align: right;
+  text-align: left;
   display: inline-block;
   margin-top: 64px;
 }
