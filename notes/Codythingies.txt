@@ -1,0 +1,6 @@
+While True:
+    if coffee:
+        work()
+        coffee.consume()
+    else:
+        coffe.brew()
