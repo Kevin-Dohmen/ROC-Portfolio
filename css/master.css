@@ -83,8 +83,6 @@ body {
   margin-top: 8px;
 }
 
-/*-------------Pagina-specifieke Styles-------------*/
-/*Projecten*/
 #contentbox {
   margin-top: 20px;
   margin-left: 20px;
@@ -94,6 +92,8 @@ body {
   padding: 10px
 }
 
+/*-------------Pagina-specifieke Styles-------------*/
+/*Projecten*/
 .projectbox {
   background-color: #1c284d;
   border-radius: 10px;
@@ -119,3 +119,6 @@ body {
   background-color: #dd0000;
   color: #000000;
 }
+
+/*Home*/
+.home
