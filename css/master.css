@@ -41,8 +41,9 @@ body {
 
 .Title.Portfolio {
   text-align: left;
+  font-size: 50px;
   display: inline-block;
-  margin-top: 64px;
+  margin: auto 0 auto 0;
 }
 
 #topBar {
@@ -119,6 +120,3 @@ body {
   background-color: #dd0000;
   color: #000000;
 }
-
-/*Home*/
-.home
