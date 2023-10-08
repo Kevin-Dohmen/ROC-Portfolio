@@ -109,14 +109,45 @@ body {
 
 .projecttextbox {
   color: #16d92a;
+  margin-left: 200px;
+  padding-left: 20px;
 }
 
-.current-project {
+.lable {
   float: right;
   font-weight: 800;
   font-size: 12px;
   padding: 3px;
   border-radius: 5px;
-  background-color: #dd0000;
+  margin-left: 5px;
   color: #000000;
+}
+.current-project {
+  background-color: #dd0000;
+}
+
+.school-project {
+  background-color: #00afdd;
+}
+
+.private-project {
+  background-color: #88dd88;
+}
+
+.projectpic {
+  float: left;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.whoami {
+  width: 600px;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 10px;
+  background-image: linear-gradient(#0054, #0024);
+  .text {
+    margin: 0;
+    font-size: 24px;
+  }
 }
