@@ -155,3 +155,27 @@ body {
     font-size: 24px;
   }
 }
+
+/*CV*/
+.downloadbox {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  margin: 0 auto;
+  border: 2px solid #777;
+  background-color: #555;
+  .greenarrow {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: #383838;
+    float: left;
+  }
+  .text{
+    padding-top: 10px;
+    margin-left: 70px;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+  }
+}
