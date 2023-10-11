@@ -134,6 +134,10 @@ body {
   background-color: #88dd88;
 }
 
+.languages {
+  background-color: #faf;
+}
+
 .projectpic {
   float: left;
   margin-right: 10px;
