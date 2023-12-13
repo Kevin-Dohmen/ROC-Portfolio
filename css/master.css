@@ -43,7 +43,7 @@ body {
   text-align: left;
   font-size: 50px;
   display: inline-block;
-  margin: auto 0 auto 0;
+  margin: auto 0 auto 5px;
 }
 
 #topBar {
@@ -150,6 +150,24 @@ body {
 }
 
 /*Home*/
+.pfpic {
+  height: 300px;
+  border-radius: 10px;
+}
+.vseppline {
+  width: 2px;
+  height: 300px;
+  background-color: white;
+}
+.hseppline { /* = <br> */
+  color: white;
+  height: 0;
+}
+.wherehowwhy {
+  font-size: 18px;
+  margin-left: 5px;
+}
+
 .whoami {
   margin: 0 50px;
   border-radius: 10px;
@@ -183,4 +201,53 @@ body {
     font-weight: 700;
     color: white;
   }
+}
+
+@media screen and (max-width: 1000px) {
+  /* All */
+  #topBar{
+    .menuButton{
+      font-size: 50px;
+      height: 50px;
+      .menuText {
+        font-size: 35px;
+        margin-top: 10px;
+      }
+    }
+  }
+
+  #footer {
+    font-size: 30px;
+  }
+
+
+  /* Home */
+  .pfpic {
+    height: 500px;
+  }
+  .vseppline {
+    width: 4px;
+    height: 500px;
+  }
+  .hseppline {
+    color: white;
+    background-color: white;
+    height: 3px;
+  }
+  .wherehowwhy {
+    font-size: 24px;
+  }
+
+  /* Projecten */
+  .lable {
+    font-size: 30px;
+  }
+
+  /* Contact */
+  .contacttext {
+    font-size: 30px;
+  }
+
+  /* CV */
+  
 }
