@@ -1,0 +1,57 @@
+[
+{
+    "name": "AI Crypto-Bot",
+    "date": "Jan 2022",
+    "description": "Ik probeer met de hulp van AI te traden.\nHet is de bedoeling dat hij volledig automatisch alle interacties doet.\nIk heb al vanaf januari 2023 een programma 24/7 aan staan die voor mij de koers opslaat van 4 currencies.\nDeze data ga ik gebruiken om een AI model op te trainen.",
+    "imageLoc": "pictures/projectfotos/cryptoBot.webp",
+    "Planguage": ["python"],
+    "PrivateOrSchool": "prive",
+    "In-Progress": false,
+    "link": "",
+    "githubLink": ""
+},
+{
+    "name": "TechnoWire",
+    "date": "Sep 2023",
+    "description": "[beschrijving komt nog]",
+    "imageLoc": "pictures/projectfotos/TechnoWire_logo.webp",
+    "Planguage": ["html"],
+    "PrivateOrSchool": "school",
+    "In-Progress": false,
+    "link": "",
+    "githubLink": ""
+},
+{
+    "name": "Portfolio",
+    "date": "Sep 2023",
+    "description": "Portfolio voor opleiding Software Development op het ROC.\nOm te laten zien wat ik kan en waar ik trots op ben.",
+    "imageLoc": "pictures/Icons/user.webp",
+    "Planguage": ["html"],
+    "PrivateOrSchool": "prive",
+    "In-Progress": true,
+    "link": "https://www.kevin-dohmen.nl/",
+    "githubLink": "https://github.com/Kevin-Dohmen/ROC-Portfolio"
+},
+{
+    "name": "ASCII Renderer",
+    "date": "Okt 2023",
+    "description": "Gebruikt een soor shader om voor elke pixel in de afbeelding een brightness te berekenen en daarmee in ascii characters een scherm te renderen.\nDe manier waarop de shaders werken is afgeleid van OpenGL en maakt gebruik van uv's.",
+    "imageLoc": "pictures/projectfotos/ascii_renderer.webp",
+    "Planguage": ["c++"],
+    "PrivateOrSchool": "prive",
+    "In-Progress": true,
+    "link": "",
+    "githubLink": "https://github.com/Kevin-Dohmen/ascii-renderer"
+},
+{
+    "name": "GameCraft",
+    "date": "Dec 2023",
+    "description": "[beschrijving komt nog]",
+    "imageLoc": "pictures/projectfotos/gameCraft.webp",
+    "Planguage": ["html"],
+    "PrivateOrSchool": "school",
+    "In-Progress": true,
+    "link": "",
+    "githubLink": "https://github.com/roc-ica/l2-pro-3-gamecraft-scriptsavants"
+}
+]
