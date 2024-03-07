@@ -53,5 +53,16 @@
     "In-Progress": true,
     "link": "",
     "githubLink": "https://github.com/roc-ica/l2-pro-3-gamecraft-scriptsavants"
+},
+{
+    "name": "ErgoWijzer",
+    "date": "Jan 2024",
+    "description": "[beschrijving komt nog]",
+    "imageLoc": "pictures/projectfotos/NexusCodeErgowijzer.webp",
+    "Planguage": ["html", "php"],
+    "PrivateOrSchool": "school",
+    "In-Progress": true,
+    "link": "",
+    "githubLink": "https://github.com/roc-ica/l3-pro-3-ergowijzer-nexuscode"
 }
 ]
