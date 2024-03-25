@@ -1,16 +1,5 @@
 [
 {
-    "name": "AI Crypto-Bot",
-    "date": "Jan 2022",
-    "description": "Ik probeer met de hulp van AI te traden.\nHet is de bedoeling dat hij volledig automatisch alle interacties doet.\nIk heb al vanaf januari 2023 een programma 24/7 aan staan die voor mij de koers opslaat van 4 currencies.\nDeze data ga ik gebruiken om een AI model op te trainen.",
-    "imageLoc": "pictures/projectfotos/cryptoBot.webp",
-    "Planguage": ["python"],
-    "PrivateOrSchool": "prive",
-    "In-Progress": false,
-    "link": "",
-    "githubLink": ""
-},
-{
     "name": "TechnoWire",
     "date": "Sep 2023",
     "description": "[beschrijving komt nog]",
@@ -64,5 +53,16 @@
     "In-Progress": true,
     "link": "",
     "githubLink": "https://github.com/roc-ica/l3-pro-3-ergowijzer-nexuscode"
+},
+{
+    "name": "AI Crypto-Bot",
+    "date": "Jan 2022",
+    "description": "Een bot die op basis van een aantal indicatoren een voorspelling maakt over de koers van een cryptocurrency.<br>Heeft een tijdje stil gelegen maar ik ben weer druk bezig!",
+    "imageLoc": "pictures/projectfotos/cryptoBot.webp",
+    "Planguage": ["python"],
+    "PrivateOrSchool": "prive",
+    "In-Progress": true,
+    "link": "http://crypto-bot.kevin-dohmen.nl/",
+    "githubLink": "https://github.com/Kevin-Dohmen/Crypto-Bot"
 }
 ]
