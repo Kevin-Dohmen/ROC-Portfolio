@@ -1,5 +1,16 @@
 [
 {
+    "name": "AI Crypto-Bot",
+    "date": "Jan 2022",
+    "description": "Een bot die op basis van een aantal indicatoren een voorspelling maakt over de koers van een cryptocurrency.<br>Heeft een tijdje stil gelegen maar ik ben weer druk bezig!",
+    "imageLoc": "pictures/projectfotos/cryptoBot.webp",
+    "Planguage": ["python"],
+    "PrivateOrSchool": "prive",
+    "In-Progress": true,
+    "link": "http://crypto-bot.kevin-dohmen.nl/",
+    "githubLink": "https://github.com/Kevin-Dohmen/Crypto-Bot"
+},
+{
     "name": "TechnoWire",
     "date": "Sep 2023",
     "description": "[beschrijving komt nog]",
@@ -44,6 +55,17 @@
     "githubLink": "https://github.com/roc-ica/l2-pro-3-gamecraft-scriptsavants"
 },
 {
+    "name": "Yard Sollicitatie",
+    "date": "Dec 2023",
+    "description": "Ik moest de homepagina van Yard.nl namaken als een portfolio.",
+    "imageLoc": "pictures/projectfotos/gameCraft.webp",
+    "Planguage": ["html"],
+    "PrivateOrSchool": "school",
+    "In-Progress": false,
+    "link": "http://589181.klas4s23.mid-ica.nl/yard-sollicitatie/",
+    "githubLink": "https://github.com/roc-ica/l2-pro-3-gamecraft-scriptsavants"
+},
+{
     "name": "ErgoWijzer",
     "date": "Jan 2024",
     "description": "[beschrijving komt nog]",
@@ -51,18 +73,18 @@
     "Planguage": ["html", "php"],
     "PrivateOrSchool": "school",
     "In-Progress": true,
-    "link": "",
+    "link": "http://589181.klas4s23.mid-ica.nl/ergowijzer/",
     "githubLink": "https://github.com/roc-ica/l3-pro-3-ergowijzer-nexuscode"
 },
 {
-    "name": "AI Crypto-Bot",
-    "date": "Jan 2022",
-    "description": "Een bot die op basis van een aantal indicatoren een voorspelling maakt over de koers van een cryptocurrency.<br>Heeft een tijdje stil gelegen maar ik ben weer druk bezig!",
-    "imageLoc": "pictures/projectfotos/cryptoBot.webp",
-    "Planguage": ["python"],
-    "PrivateOrSchool": "prive",
-    "In-Progress": true,
-    "link": "http://crypto-bot.kevin-dohmen.nl/",
-    "githubLink": "https://github.com/Kevin-Dohmen/Crypto-Bot"
+    "name": "GuestBook",
+    "date": "Jan 2024",
+    "description": "Een website waar je 1 keer per dag een bericht achter kan laten.",
+    "imageLoc": "pictures/projectfotos/NexusCodeErgowijzer.webp",
+    "Planguage": ["html", "php"],
+    "PrivateOrSchool": "school",
+    "In-Progress": false,
+    "link": "http://589181.klas4s23.mid-ica.nl/guestbook/",
+    "githubLink": "https://github.com/Kevin-Dohmen/ROC-GuestBook"
 }
 ]
