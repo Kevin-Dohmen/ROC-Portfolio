@@ -86,5 +86,16 @@
     "In-Progress": false,
     "link": "http://589181.klas4s23.mid-ica.nl/guestbook/",
     "githubLink": "https://github.com/Kevin-Dohmen/ROC-GuestBook"
+},
+{
+    "name": "Scrum assistant Discord Bot",
+    "date": " Mei 2024",
+    "description": "Een Discord bot die je helpt met het bijhouden van je Scrum sprints en punten.",
+    "imageLoc": "pictures/projectfotos/scrumBot.png",
+    "Planguage": ["Python"],
+    "PrivateOrSchool": "prive",
+    "In-Progress": true,
+    "link": "",
+    "githubLink": ""
 }
 ]
